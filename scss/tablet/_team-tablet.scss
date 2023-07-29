@@ -1,0 +1,14 @@
+ @media screen and (min-width: 768px) and (max-width: 1200px) {
+
+     .team__item {
+         flex-basis: calc((100% - 30px) / 2);
+         justify-content: center;
+         
+     }
+         .team__img {
+             display: block;
+             width: 100%;
+            height: 536px;
+         }
+
+ }

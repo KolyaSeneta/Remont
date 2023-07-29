@@ -1,0 +1,30 @@
+ @media screen  and (max-width: 768px) {
+
+
+    .team__title {
+        display: flex;
+        justify-content: center;
+    }
+
+    .team__list
+     {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        
+
+    }
+    .team_item {
+        display: flex;
+        flex-basis: calc((100% - 90px) / 4);
+    }
+    .team__img{
+        display: block;
+        width: 100%;
+        height: 460px;
+    }
+    
+}
+
+
+    

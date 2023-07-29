@@ -1,0 +1,53 @@
+
+@import "./base/base-styles";
+@import "./base/container";
+@import "./base/section";
+@import "./utils/vars";
+
+@import "./layout/header";
+@import "./components/logo";
+@import "./components/nav";
+@import "./components/feedback";
+
+@import "./components/title-primary";
+
+@import "./layout/promo";
+
+@import "./layout/about";
+
+@import "./layout/feauters";
+
+@import "./layout/team";
+@import "./components/social-icons";
+
+@import "./layout/clients";
+
+@import "./components/modal";
+
+@import "./layout/footer";
+@import "./components/addrres";
+@import "./components/social";
+@import "./components/feedback";
+@import "./components/subscribe";
+
+@import "./layout/portfolio";
+@import "./components/buttons-list";
+@import "./tablet/modal-tablet";
+@import "./tablet/header-tablete";
+@import "./tablet/clients-tablet";
+@import "./tablet/feauter-tablet";
+@import "./tablet/promo-tablet";
+@import "./tablet/team-tablet";
+@import "./tablet/portfolio-tablet";
+@import "./tablet/footer-tablet";
+@import "./mobile/header-mobile";
+@import "./mobile/promo-mobile";
+@import "./mobile/feauter-mobile";
+@import "./mobile/about-mobile";
+@import "./mobile/team-mobile";
+@import "./mobile/clients-mobile";
+@import "./mobile/footer-mobile";
+@import "./mobile/portfolio-mobile";
+@import "./mobile/burger-menu";
+@import "./mobile/modal-mobile";
+
